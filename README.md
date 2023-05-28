@@ -1,4 +1,4 @@
-# Programação de IA usando Python 3     [![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE)
+# Programação de IA usando Python 3     [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Dom-Furia/Trabalho-IA/edit/main/LICENSE)
 Trabalho Acadêmico.
 
 
