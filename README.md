@@ -1,5 +1,6 @@
-# Programação de IA usando Python 3
+# Programação de IA usando Python 3     [![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE)
 Trabalho Acadêmico.
+
 
 Este repositório contém a implementação de um dos algoritmos de IA, baseados no livro de IA: [Artificial Intelligence: A Modern Approach](https://www.cin.ufpe.br/~gtsa/Periodo/PDF/4P/SI.pdf)
 
