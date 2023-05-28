@@ -11,19 +11,19 @@ Este repositório contém a implementação de um dos algoritmos de IA, baseados
         - Busca Local: Encontrar menor caminho entre os vizinhos selecionar o melhor em cada interação.
         - Busca Gulosa: Encontrar o menor caminho com menor custo selecionando o mais promissor com base na heuristica
     - Problema:
-        - Dado um grafo de espaço de estados que contem varias cidade aleatorias, o objetivo é procurar um caminho um menor caminho com o menor custo partindo do estado inicial para o estado objetivo.
+        - Dado um grafo de espaço de estados que contem varias cidade aleatorias, o objetivo é procurar caminho com o menor custo partindo do estado inicial para o estado objetivo.
     - Exemplo utilizado:
         - Cidades de Mato-Grosso
         
         
         
 <p align="center">
-  <img width="85%" src="https://graphonline.ru/tmp/saved/hl/hlSMMcTUCmyqUFVT.png">
-  <br>Examplo: Grafo das cidades utilizadas para o algoritmo.
+  <img width="85%" src="https://graphonline.ru/tmp/saved/pt/ptJSBifGBvOlGtQm.png">
+  <br>Figura1: Grafo das cidades.
 </p>
   
  <p align="center">
-    <br>Tabela: Tabela distancia das cidades em linha reta até a cidade objetivo - Cuiabá.
+    <br>Tabela1: Tabela de distancia das cidades em linha reta até a cidade objetivo - Cuiabá.
  </p>
  
  
