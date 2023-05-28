@@ -6,7 +6,10 @@ Este repositório contém a implementação de um dos algoritmos de IA, baseados
 
 ### Sobre o Trabalho:
 
+ Este trabalho consistem em resolver o problema de rota de uma cidade ,o objetivo é encontra o menor caminho com menor custo partindo da cidade atual até cidade objetivo
+
 - Conteúdo:
+      
     - Estratégias de busca utilizadas:
         - Busca A*: Encontrar o caminho mais curto, levando em consideração tanto o custo percorrido quanto uma estimativa do custo restante.
         - Busca Local: Encontrar menor caminho entre os vizinhos selecionar o melhor em cada interação.
