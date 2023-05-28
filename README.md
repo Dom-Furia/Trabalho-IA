@@ -25,32 +25,84 @@ Este repositório contém a implementação de um dos algoritmos de IA, baseados
  <p align="center">
     <br>Tabela1: Tabela de distancia das cidades em linha reta até a cidade objetivo - Cuiabá.
  </p>
+<table align="center">
+    <tr>
+        <th align="center">Cidades</th>
+        <th align="center">Distância (linha reta)</th>
+    </tr>
+    <tr>
+        <td> Rosário Oeste </td>
+        <td align="right"> 91 </td>
+    </tr>
+     <tr>
+        <td> Jangada </td>
+        <td align="right"> 58 </td>
+    </tr>
+     <tr>
+        <td>  Barra do Bugres </td>
+        <td align="right"> 132 </td>
+    </tr>
+     <tr>
+        <td> Poconé </td>
+        <td align="right"> 97 </td>
+    </tr>
+     <tr>
+        <td> Cáceres </td>
+        <td align="right"> 180 </td>
+    </tr>
+     <tr>
+        <td> Varzea Grande </td>
+        <td align="right"> 7 </td>
+    </tr>
+     <tr>
+        <td> Chapada dos Guimarães </td>
+        <td align="right"> 37 </td>
+    </tr>
+     <tr>
+        <td> Cuiabá </td>
+        <td align="right"> 0 </td>
+    </tr>
+     <tr>
+        <td> Jaciara </td>
+        <td align="right"> 126 </td>
+    </tr>
+     <tr>
+        <td> Rondonópolis </td>
+        <td align="right"> 183 </td>
+    </tr>
+     <tr>
+        <td> Poxoréu </td>
+        <td align="right"> 184 </td>
+    </tr>
+     <tr>
+        <td> Primavera do Leste </td>
+        <td align="right"> 190 </td>
+    </tr>
+     <tr>
+        <td> Campo Verde </td>
+        <td align="right"> 97 </td>
+    </tr>
+     <tr>
+        <td> Pedra Preta </td>
+        <td align="right"> 207 </td>
+    </tr>
+     <tr>
+        <td> Pontes e Lacerda </td>
+        <td align="right"> 352 </td>
+    </tr>
+     <tr>
+        <td> Tangará da Serra </td>
+        <td align="right"> 185 </td>
+    </tr>
+     <tr>
+        <td> Diamantino </td>
+        <td align="right"> 135 </td>
+    </tr>
+</table>
  
  
  
-                                        | Cidades                       |   Distância(linha reta)|
-                                        | ------------------------      | ---------------------- |
-                                        |  Rosário Oeste	            |                     91 |  
-                                        |  Jangada	                    |                     58 |  
-                                        |  Barra do Bugres	            |                    132 |  
-                                        |  Poconé	                    |                     97 |  
-                                        |  Cáceres	                    |                    180 |  
-                                        |  Varzea Grande	            |                      7 |  
-                                        |  Cuiabá	                    |                      0 |  
-                                        |  Chapada dos Guimarães        |    	          37 |  
-                                        |  Jaciara	                    |                    126 |  
-                                        |  Rondonópolis	            |                    183 |  
-                                        |  Poxoréu	                    |                    184 |  
-                                        |  Primavera do Leste	    |                    190 |  
-                                        |  Campo Verde	            |                     97 |  
-                                        |  Pedra Preta	            |                    207 |  
-                                        |  Pontes e Lacerda	            |                    352 |  
-                                        |  Tangará da Serra             |                    185 |  
-                                        |  Diamantino	            |                    135 |  
-                                        
-                               
-                               
-                              
+                     
                                
                                
                                
